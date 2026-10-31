@@ -1,0 +1,10 @@
+# TYPE pinefall_working_set_sum_bytes gauge
+pinefall_working_set_sum_bytes 626995200
+# TYPE pinefall_cpu_percent_sum gauge
+pinefall_cpu_percent_sum 11.850220876418533
+# TYPE pinefall_errors_last_minute gauge
+pinefall_errors_last_minute 0
+# TYPE pinefall_log_dropped_total counter
+pinefall_log_dropped_total 0
+# TYPE pinefall_log_write_failures_total counter
+pinefall_log_write_failures_total 0
